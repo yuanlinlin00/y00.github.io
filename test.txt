@@ -1,0 +1,11 @@
+git status
+git init
+git add test.txt
+git commit -m "text commit"
+git log
+git branch
+git checkout a
+git merge
+git branch -d & git branch -D
+git tag
+ssh
